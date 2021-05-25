@@ -26,3 +26,4 @@
    echo "\n";
    echo $array["age"];
    echo "123";
+   echo "456";
