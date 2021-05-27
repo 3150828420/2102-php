@@ -6,3 +6,11 @@ $arr = ["zhangsan","lisi","wangwu","zhaoliu","wzx"];
 echo '<pre>';print_r($arr);echo '</pre>';
 $arr2 = array_reverse($arr);
 echo '<pre>';print_r($arr2);echo '</pre>';   
+
+
+
+
+
+
+
+
