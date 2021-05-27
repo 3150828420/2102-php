@@ -1,6 +1,6 @@
 <?php
 
-// echo '<pre>';print_r($_POST);echo '</pre>';
+echo '<pre>';print_r($_POST);echo '</pre>';
 // 接收post传参
 if(empty($_POST)){
     die("数据未提交");
@@ -48,3 +48,7 @@ if($user_info['u_pass1']!=$user_info['u_pass2']){
 }
 echo "注册成功";
 ?>
+
+
+
+
