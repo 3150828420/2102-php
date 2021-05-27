@@ -20,10 +20,13 @@
         ["name"=>"赵六","age"=>44,"email"=>"zhaoliu@qq.com"],
     ];
   
-   foreach($list as $k=>$v){
-       echo "<tr>"."<td>".$v['name']."</td>"."<td>".$v['age']."</td>"."<td>".$v['email']."</td>"."</tr>";
+//    foreach($list as $k=>$v){
+//        echo "<tr>"."<td>".$v['name']."</td>"."<td>".$v['age']."</td>"."<td>".$v['email']."</td>"."</tr>";
+//    }
+    $length = count($list);
+   for($i=0;$i<$length;$i++){
+       
    }
-
 
 
 ?>
