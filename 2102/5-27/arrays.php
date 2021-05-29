@@ -12,5 +12,5 @@ foreach($arr1 as $k=>$v){
     $new_array[$k] = $v;    
 }
 echo "<pre>";print_r($new_array);echo '</pre>';
-
+                        
 
