@@ -3,13 +3,13 @@
 
 $link = new mysqli("localhost","root","root","php2102");
 
-$goods_name = trim($_POST['name']);
-$goods_price = trim($_POST['price']);
-$goods_time = trim($_POST['time']);
-$goods_num = trim($_POST['num']);
-$goods_cz = trim($_POST['cz']);
+$name = trim($_POST['name']);
+$age = trim($_POST['age']);
+//$goods_time = trim($_POST['time']);
+$tel = trim($_POST['tel']);
+$address = trim($_POST['address']);
 
-$sql = "insert into goods (`goods_name`,`goods_price`,`goods_time`,`goods_num`,`goods_cz`) values ('{$goods_name}','{$goods_price}','{$goods_time}','{$goods_num}','{$goods_cz}')";
+$sql = "insert into play (`name`,`age`,`tel`,`address`) values ('{$name}','{$age}','{$tel}','{$address}')";
 // echo $sql;
 
 // 准备阶段
