@@ -6,11 +6,12 @@ session_start();
 
     //判断session中是否用用户信息  如果用户为登录2跳转至登录页面
    if(!isset($_SESSION['goods_name'])){
-       header("refresh:1;url=login.html");
+       echo "111";
+       header("refresh:1;url=login.php");
        echo "您未登录，请先登录";
        die();
    }
-
+//     echo "221";die;
     $goods_name = $_SESSION['goods_name'];
     $goods_email = $_SESSION['goods_email'];
     $goods_age = $_SESSION['goods_age'];
@@ -21,9 +22,6 @@ session_start();
     echo "Email：{$goods_email}<br/>";
     echo "年领：{$goods_age}<br/>";
     echo "登陆时间:".$goods_time;
-
-
-
 ?>
 <hr>
 <a href="./ulogin.php">退出登录</a>

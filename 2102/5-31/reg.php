@@ -49,7 +49,7 @@ if($_POST) {
 
 //echo $sql;die;
     if ($res) {
-        header("refresh:3;url=reg.html");
+        header("refresh:3;url=reg.php");
         die ("用户已存在");
     }
 
@@ -61,7 +61,7 @@ if($_POST) {
     $result = mysqli_stmt_execute($stmt);
 //var_dump($result);die;
     if ($result) {
-        header("refresh:3;url=login.html");
+        header("refresh:3;url=login.php");
         //header("location:login.html");
         echo "注册成功";
     } else {

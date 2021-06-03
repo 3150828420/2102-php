@@ -2,18 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc0ed18b-9e55-4ce5-9688-4b69292998aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/5-31/cookie1.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-31/cookie2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-31/delete.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-31/link.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-31/login.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-31/man.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-31/my.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-31/ulogin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-2/aaa.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-3/goods.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-3/goods_list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-3/goods_page.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-3/num" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-3/num.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/5-26/num" beforeDir="false" afterPath="$PROJECT_DIR$/5-26/num" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reg.html" beforeDir="false" afterPath="$PROJECT_DIR$/reg.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reg.php" beforeDir="false" afterPath="$PROJECT_DIR$/reg.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-26/text" beforeDir="false" afterPath="$PROJECT_DIR$/5-26/text" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-31/man.php" beforeDir="false" afterPath="$PROJECT_DIR$/5-31/man.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-31/reg.php" beforeDir="false" afterPath="$PROJECT_DIR$/5-31/reg.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-31/ulogin.php" beforeDir="false" afterPath="$PROJECT_DIR$/5-31/ulogin.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
@@ -79,7 +79,12 @@
       <workItem from="1622597531765" duration="19000" />
       <workItem from="1622597920527" duration="10000" />
       <workItem from="1622597951219" duration="3385000" />
-      <workItem from="1622615502062" duration="3578000" />
+      <workItem from="1622615502062" duration="11435000" />
+      <workItem from="1622678808081" duration="782000" />
+      <workItem from="1622681570795" duration="11734000" />
+      <workItem from="1622710016734" duration="14000" />
+      <workItem from="1622710057367" duration="6777000" />
+      <workItem from="1622721164510" duration="1674000" />
     </task>
     <servers />
   </component>
@@ -87,23 +92,27 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="556" y="323" key="NewPhpFileDialog" timestamp="1622544661156">
+    <state x="606" y="218" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1622708780320">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="556" y="323" key="NewPhpFileDialog/0.0.1536.834@0.0.1536.834" timestamp="1622544661156" />
-    <state x="0" y="0" key="SettingsEditor" timestamp="1622619198501">
+    <state x="606" y="218" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1622708780320" />
+    <state x="556" y="323" key="NewPhpFileDialog" timestamp="1622717246741">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="556" y="323" key="NewPhpFileDialog/0.0.1536.834@0.0.1536.834" timestamp="1622717246741" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1622619274101">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="0" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1622443906543" />
-    <state x="0" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1622619198501" />
-    <state x="342" y="186" key="run.anything.popup" timestamp="1622551970811">
+    <state x="0" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1622619274101" />
+    <state x="342" y="186" key="run.anything.popup" timestamp="1622710810297">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="342" y="186" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1622551970811" />
-    <state x="431" y="147" width="840" height="687" key="search.everywhere.popup" timestamp="1622552575321">
+    <state x="342" y="186" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1622710810297" />
+    <state x="431" y="147" width="840" height="687" key="search.everywhere.popup" timestamp="1622710411423">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1622441030720" />
-    <state x="431" y="147" width="840" height="687" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1622552575321" />
+    <state x="431" y="147" width="840" height="687" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1622710411423" />
   </component>
 </project>
